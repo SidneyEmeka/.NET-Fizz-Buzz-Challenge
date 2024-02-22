@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\bin\Debug\net8.0\.NET-Fizz-Buzz-Challenge.exe
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\bin\Debug\net8.0\.NET-Fizz-Buzz-Challenge.deps.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\bin\Debug\net8.0\.NET-Fizz-Buzz-Challenge.runtimeconfig.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\bin\Debug\net8.0\.NET-Fizz-Buzz-Challenge.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\bin\Debug\net8.0\.NET-Fizz-Buzz-Challenge.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\obj\Debug\net8.0\.NET-Fizz-Buzz-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\obj\Debug\net8.0\.NET-Fizz-Buzz-Challenge.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\obj\Debug\net8.0\.NET-Fizz-Buzz-Challenge.AssemblyInfo.cs
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\obj\Debug\net8.0\.NET-Fizz-Buzz-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\obj\Debug\net8.0\.NET-Fizz-Buzz-Challenge.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\obj\Debug\net8.0\refint\.NET-Fizz-Buzz-Challenge.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\obj\Debug\net8.0\.NET-Fizz-Buzz-Challenge.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\obj\Debug\net8.0\.NET-Fizz-Buzz-Challenge.genruntimeconfig.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-Fizz-Buzz-Challenge\obj\Debug\net8.0\ref\.NET-Fizz-Buzz-Challenge.dll
