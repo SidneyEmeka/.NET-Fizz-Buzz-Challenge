@@ -7,4 +7,4 @@ When the current value is divisible by both 3 and 5, print the term FizzBuzz nex
 
 Check program.cs file for the logic
 
-## For Loop
+## For Loop Statements
